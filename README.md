@@ -1,8 +1,6 @@
-## Who Are We
+## Who We Are
 
-You can use the [editor on GitHub](https://github.com/dsharma136/mvcd.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+MV Connected Devices is a club on campus that teaches about aspects of both software and hardware engineering. As in the name “connected devices”, our club goes in-depth with teaching about microcontrollers such as the commonly known Arduino IDE. Throughout the year, we use an abundance of peripherals that allow us to create complex circuits. Joining this club will allow you to learn the basic usages from simply being able to turn on an LED up to learning how to work with AC and DC motors. Ultimately, the goal of this club is to allow all of our members to experience the applications of the abstract concept known as the Internet of Things. Above getting to participate in our great projects, learning about the Internet of Things and becoming advanced in this field can open up many opportunities for those that are interested in the field of STEM. Overall, if you're someone that wants to either pursue a career in the field of STEM or simply wants to work with hands-on projects, Join us today by signing up with the form below. 
 
 ### Markdown
 
